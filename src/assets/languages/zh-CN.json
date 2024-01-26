@@ -1,7 +1,7 @@
 {
   "general": {
     "score": "分",
-    "close": "關閉",
+    "close": "关闭",
     "minute": "分",
     "second": "秒"
   },
@@ -19,7 +19,7 @@
     "empty": "暫時還沒有題目喲~",
     "list": "所有靶機",
     "team": "所屬隊伍",
-    "challenge": "所屬題目",
+    "challenge": "所属题目",
     "address": "地址"
   },
   "flag": {
